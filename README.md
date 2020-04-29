@@ -2,7 +2,7 @@
 
 An npx utility to run `create-react-app` with the TypeScript template.
 
-[![npm version](https://badge.fury.io/js/@crapp/ts.svg)](https://badge.fury.io/js/@crapp/ts)
+[![npm version](https://badge.fury.io/js/%40crapp%2Fts.svg)](https://badge.fury.io/js/%40crapp%2Fts)
 
 ## Usage
 
