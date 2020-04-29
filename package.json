@@ -1,0 +1,14 @@
+{
+  "name": "cra-ts",
+  "version": "1.0.0",
+  "description": "An npx utility to run create-react-app w/ the typescript template.",
+  "author": "Donavon West <github@donavon.com> (https://github.com/donavon)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/donavon/cra-ts.git"
+  },
+  "bin": {
+    "cra-ts": "./cra-ts.sh"
+  }
+}
