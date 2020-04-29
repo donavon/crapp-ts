@@ -1,4 +1,4 @@
 #!/bin/bash
-# cra-ts
+# ts
 
 npx create-react-app --template typescript "$@"
